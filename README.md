@@ -1,16 +1,3 @@
-# meals_app
+# GoodFood
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+A practice app which is my rendition of Maximilian Schwarzmuller's Meals App. This app is basically a recipe app where you can not only see the recipes, but you can also see the estimated time required to make them, their price if you're trying to make or buy them, and also their complexity. It also has a favorites feature where you can add your favorite meals and see them in the Favorites screen. And it also has a filter feature to filter out certain meals depending on the filter such as gluten-free, lactose-free and more. This app is to help me get a better understanding on how Navigation and Data Management work in Flutter.
